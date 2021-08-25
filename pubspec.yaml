@@ -1,7 +1,7 @@
 name: modular_shelf
 description: An Dependency Injection plugin to Shelf
 version: 1.0.0
-homepage: https://github.com/RafaelSilvaPereira/shelf_modular
+homepage: https://github.com/RafaelSilvaPereira/modular_shelf
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
