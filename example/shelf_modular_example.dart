@@ -1,4 +1,5 @@
-import 'package:shelf_modular/shelf_modular.dart';
+
+import 'package:modular_shelf/modular_shelf.dart';
 import 'package:shelf_router/shelf_router.dart';
 
 void main() async {
